@@ -56,3 +56,34 @@ search movies, sort results, and rate their favorite films.
 * The website successfully displays movie information with ratings and search functionality, providing a simple and interactive user experience.
 
 GitHub Backend Link:(github.com/dipakwankhede/Movie-Lis-ng-and-Ra-ng-Website-UI-)
+
+
+
+
+Daily Progress Report
+Day : 5
+Date: 17/03/2026  
+In Time: 3:30 pm
+Out Time: 5:30 pm
+Name: Dipak Wankhede
+College: Sarswati College, Shegaon.
+
+Final Project Report.
+
+Project Title: MovieFlix – Movie Review Web Application.
+Project Overview
+
+* This project is a responsive Movie Listing and Rating Website UI developed as part of an internship task. The website allows users to browse movies, view details, and rate them using an interactive rating system.
+* The main goal of this project is to demonstrate UI/UX design skills, responsiveness, and interactivity using modern web technologies.
+* The project allows users to browse movies across multiple categories, search for specific films, and rate movies using an interactive star system.
+* The project successfully demonstrates a modern frontend movie browsing and rating platform with realistic features such as dynamic content loading, real-time search, interactive ratings, category navigation, and responsive design.
+
+* Technologies Used
+    HTML5 – Structure
+    CSS3 – Styling & Responsiveness
+    JavaScript (Vanilla JS) – Interactivity
+* Optional:
+    React.js – Dynamic UI
+    Bootstrap / Tailwind CSS – Faster styling.
+
+    GitHub Backend Link:(github.com/dipakwankhede/Movie-Lis-ng-and-Ra-ng-Website-UI-).
